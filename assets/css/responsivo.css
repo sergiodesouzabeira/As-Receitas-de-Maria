@@ -1,0 +1,9 @@
+@media screen and (min-width:378px){
+    body{
+        width: 100vw;
+    }
+    .container {
+        padding: 1rem;
+    }
+
+}
